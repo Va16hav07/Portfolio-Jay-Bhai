@@ -27,7 +27,7 @@ const About = () => {
           <div className="flex flex-col sm:flex-row items-center gap-6">
             <div className="w-32 h-32 rounded-xl overflow-hidden ring-2 ring-purple-500/30 transform hover:scale-105 transition-transform duration-300">
               <img
-                src="Profile.JPG"
+                src="/Profile.JPG"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
@@ -36,7 +36,7 @@ const About = () => {
               <h3 className="text-2xl font-bold text-purple-400 mb-2">Soni Jay Gaurang</h3>
               <p className="text-gray-300 flex items-center gap-2 justify-center sm:justify-start">
                 <Terminal className="w-4 h-4" />
-                First Year Student
+                Second Year Student
               </p>
               <p className="text-gray-400 flex items-center gap-2 mt-2 justify-center sm:justify-start">
                 <Coffee className="w-4 h-4" />

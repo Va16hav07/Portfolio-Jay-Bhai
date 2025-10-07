@@ -12,7 +12,7 @@ const Header = () => {
       <div className="mb-8 relative group">
         <div className="w-40 h-40 rounded-full overflow-hidden ring-4 ring-purple-500/30 animate-float group-hover:ring-purple-500/50 transition-colors duration-300">
           <img
-            src="Profile.JPG"
+            src="/Profile.JPG"
             alt="Profile"
             className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-300"
           />
