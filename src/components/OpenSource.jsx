@@ -6,19 +6,19 @@ const contributions = [
     title: 'Feature Implementation',
     description: 'Added new functionality to improve user experience in various open source projects.',
     icon: Code2,
-    stats: '4 PRs Merged',
+    stats: '52 PRs Merged',
   },
   {
     title: 'Bug Fixes',
     description: 'Resolved critical issues in core functionality across multiple repositories.',
     icon: GitPullRequest,
-    stats: '10 Issues Fixed',
+    stats: '48 Issues Fixed',
   },
   {
     title: 'Documentation',
     description: 'Improved project documentation and examples for better developer experience.',
     icon: Star,
-    stats: '8+ Docs Updated',
+    stats: '12+ Docs Updated',
   },
 ];
 
@@ -42,12 +42,12 @@ const OpenSource = () => {
           <div className="grid grid-cols-2 gap-4 mb-8">
             <div className="glass-panel rounded-lg p-4 text-center">
               <GitPullRequest className="w-8 h-8 text-primary mx-auto mb-2" />
-              <div className="text-2xl font-bold text-secondary">5+</div>
+              <div className="text-2xl font-bold text-secondary">60+</div>
               <div className="text-sm text-text-secondary">Pull Requests</div>
             </div>
             <div className="glass-panel rounded-lg p-4 text-center">
               <Star className="w-8 h-8 text-primary mx-auto mb-2" />
-              <div className="text-2xl font-bold text-secondary">20+</div>
+              <div className="text-2xl font-bold text-secondary">242+</div>
               <div className="text-sm text-text-secondary">Contributions</div>
             </div>
           </div>
