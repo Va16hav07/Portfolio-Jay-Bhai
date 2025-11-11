@@ -69,7 +69,7 @@ const About = () => {
               <Book className="w-8 h-8 text-purple-400 group-hover:rotate-12 transition-transform" />
               <div>
                 <h4 className="font-medium">Current Status</h4>
-                <p className="text-gray-300">First Year Student</p>
+                <p className="text-gray-300">Second Year Student</p>
                 <p className="text-gray-400">Exploring New Technologies</p>
               </div>
             </div>
